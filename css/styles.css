@@ -1,0 +1,69 @@
+body {
+    font-family: roboto, sans-serif;
+    color: #434455; 
+    background-color: #ffffff;
+}
+a {
+    text-decoration: none;
+}
+.logo {
+    font-family: raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03rem;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
+}
+.studio {
+    color: #2e2f42;
+}
+.nav-list {
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02rem;
+color: #2e2f42
+
+}
+.nav-list:hover,
+.nav-list:focus {
+    color: #404bbf;
+}
+address {
+    font-style: normal;
+}
+.address-list {
+    line-height: 1.5;
+    letter-spacing: 0.02rem;
+    color: #434455;
+}
+.address-list:hover,
+.address-list:focus {
+    color: #404bbf;
+}
+
+.first {
+    background-color: #2e2f42;
+}
+.first-heading {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02rem;
+    color: #ffffff;  
+}
+.button {
+    background-color: #4D5AE5;
+    font-family: roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04rem;
+    color: #ffffff;
+    cursor: pointer; 
+}
+.button:hover,
+.button:focus {
+   color: #404BBF;
+}
