@@ -1,5 +1,5 @@
 body {
-    font-family: roboto, sans-serif;
+    font-family: "roboto", sans-serif;
     color: #434455; 
     background-color: #ffffff;
 }
@@ -7,11 +7,11 @@ a {
     text-decoration: none;
 }
 .logo {
-    font-family: raleway, sans-serif;
+    font-family: "raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03rem;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
@@ -22,7 +22,7 @@ a {
 .nav-list {
 font-weight: 500;
 line-height: 1.5;
-letter-spacing: 0.02rem;
+letter-spacing: 0.02em;
 color: #2e2f42
 
 }
@@ -30,12 +30,12 @@ color: #2e2f42
 .nav-list:focus {
     color: #404bbf;
 }
-address {
+.address {
     font-style: normal;
 }
 .address-list {
     line-height: 1.5;
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .address-list:hover,
@@ -50,16 +50,16 @@ address {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.02em;
     color: #ffffff;  
 }
 .butt {
     background-color: #4D5AE5;
-    font-family: roboto, sans-serif;
+    font-family: "roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.04rem;
+    letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer; 
 }
@@ -71,12 +71,12 @@ address {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .section-list-point {
     line-height: 1.5;
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .third {
@@ -86,7 +86,7 @@ address {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
 }
@@ -97,11 +97,11 @@ address {
     background-color: #2e2f42;
 }
 .logo-foot-web{
-    font-family: raleway, sans-serif;
+    font-family: "raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03rem;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
     text-decoration: none;
@@ -112,5 +112,5 @@ address {
 .foot-sentence {
     line-height: 1.5;
     color: #f4f4fd;
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.02em;
 }
