@@ -53,7 +53,7 @@ address {
     letter-spacing: 0.02rem;
     color: #ffffff;  
 }
-.button {
+.butt {
     background-color: #4D5AE5;
     font-family: roboto, sans-serif;
     font-weight: 500;
@@ -63,7 +63,54 @@ address {
     color: #ffffff;
     cursor: pointer; 
 }
-.button:hover,
-.button:focus {
-   color: #404BBF;
+.butt:hover,
+.butt:focus {
+   background-color: #404BBF;
+}
+.third-heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02rem;
+    color: #2e2f42;
+}
+.section-list-point {
+    line-height: 1.5;
+    letter-spacing: 0.02rem;
+    color: #434455;
+}
+.third {
+    background-color: #f4f4fd;
+}
+.second-heading {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02rem;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.third-section-list {
+    background-color: #ffffff;
+}
+.foot {
+    background-color: #2e2f42;
+}
+.logo-foot-web{
+    font-family: raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03rem;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
+}
+.logo-foot-studio {
+    color: #f4f4fd;
+}
+.foot-sentence {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02rem;
 }
